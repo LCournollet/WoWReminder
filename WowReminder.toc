@@ -1,0 +1,14 @@
+## Interface: 120001
+## Title: WowReminder
+## Notes: Constructeur de rotation personnalisée de sorts
+## Author:
+## Version: 1.0.0
+## SavedVariables: WowReminderDB
+
+Core.lua
+Utils.lua
+Data.lua
+UI_Main.lua
+UI_Search.lua
+UI_Rotation.lua
+UI_Overlay.lua
