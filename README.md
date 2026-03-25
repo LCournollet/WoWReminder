@@ -82,7 +82,7 @@ A floating window to keep open while playing. It is used both to **record** a ro
 
 ```
 ┌──────────────────────────────────┐
-│ Rotation ● REC      ≡  ◎  [✕]  │  ← title + REC indicator + modes + close
+│ Rotation ● REC      ≡  ◎  [✕]   │  ← title + REC indicator + modes + close
 ├──────────────────────────────────┤
 │  → [icon] Spell A        (yellow)│
 │  ✓ [icon] Spell B        (green) │
