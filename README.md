@@ -41,9 +41,9 @@ The window is split into two panels:
 ├─────────────────────────────┬────────────────────────────────┤
 │   Available Spells          │   My Rotation                  │
 │  ┌───────────────────────┐  │                                │
-│  │ Search...             │  │  1. [icon] Spell A  [▲][▼][✕] │
-│  └───────────────────────┘  │  2. [icon] Spell B  [▲][▼][✕] │
-│  [By ID]  [Rescan]          │  3. [icon] Spell A  [▲][▼][✕] │
+│  │ Search...             │  │  1. [icon] Spell A  [▲][▼][✕]  │
+│  └───────────────────────┘  │  2. [icon] Spell B  [▲][▼][✕]  │
+│  [By ID]  [Rescan]          │  3. [icon] Spell A  [▲][▼][✕]  │
 │                             │                                │
 │  [icon] Spell A   + Add     │            [Clear all]         │
 │  [icon] Spell B   + Add     │                                │
@@ -140,7 +140,7 @@ Toggle with the `≡` and `◎` buttons in the title bar. The chosen mode is sav
 
 ```
 ┌──────────────────────────────────┐
-│ Rotation            ≡  ◎  [✕]  │
+│ Rotation            ≡  ◎  [✕]   │
 ├──────────────────────────────────┤
 │                                  │
 │         ┌──────────┐             │
